@@ -63,7 +63,7 @@ li {
 .sidebar {
   flex: 1 0 300px;
   padding: 16px;
-}
+} 
 
 .main {
   display: flex;
